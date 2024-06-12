@@ -1,6 +1,6 @@
 ---
-title:"teat"
-description:"test desu"
+title: teat
+description: test desu
 ---
 # Discord Server rule 
 ## 1 
