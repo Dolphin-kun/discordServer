@@ -1,7 +1,12 @@
----
-title: teat
-description: test desu
----
-# Discord Server rule 
-## 1 
-## 2
+<!DOCTYPE HTML>
+<html lang="ja">
+  <head>
+  <meta charset="utf-8">
+  <title>title</title>
+  <meta name="description" content="discord Server Rules">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    <h1>Hello world</h1>
+  </body>
+</html>
